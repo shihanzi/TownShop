@@ -1,0 +1,146 @@
+[
+  {
+    "Name": "Racer Shoes",
+    "Description": "Bring the comfort and athletic style of running footwear to your everyday look in these adidas shoes",
+    "Price": 200,
+    "PictureUrl": "images/products/sb-ang1.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Walking Shoes",
+    "Description": "Bring the comfort and athletic style of running footwear to your everyday look in these adidas shoes",
+    "Price": 150,
+    "PictureUrl": "images/products/sb-ang2.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Net Core Super Shoes",
+    "Description": "Bring the comfort and athletic style of running footwear to your everyday look in these adidas shoes",
+    "Price": 180,
+    "PictureUrl": "images/products/sb-core1.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Net Core Super Shoes",
+    "Description": "Bring the comfort and athletic style of running footwear to your everyday look in these adidas shoes",
+    "Price": 300,
+    "PictureUrl": "images/products/sb-core2.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "React Board Super Shoes",
+    "Description": "Bring the comfort and athletic style of running footwear to your everyday look in these adidas shoes",
+    "Price": 250,
+    "PictureUrl": "images/products/sb-react1.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Typescript Shoes",
+    "Description": "Bring the comfort and athletic style of running footwear to your everyday look in these adidas shoes",
+    "Price": 120,
+    "PictureUrl": "images/products/sb-ts1.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Core Blue Tshirt",
+    "Description": "For days on the move or nights on the town, this t-shirt lets everyone know whose team you play for",
+    "Price": 10,
+    "PictureUrl": "images/products/hat-core1.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Green React Woolen Tshirt",
+    "Description": "For days on the move or nights on the town, this t-shirt lets everyone know whose team you play for",
+    "Price": 8,
+    "PictureUrl": "images/products/hat-react1.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Purple React Woolen Tshirt",
+    "Description": "For days on the move or nights on the town, this t-shirt lets everyone know whose team you play for",
+    "Price": 15,
+    "PictureUrl": "images/products/hat-react2.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Blue Code Jackets",
+    "Description": "We're not saying that adidas introduced the track suit back in '64. But that doesn't mean others haven't said it",
+    "Price": 18,
+    "PictureUrl": "images/products/glove-code1.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Green Code Jackets",
+    "Description": "We're not saying that adidas introduced the track suit back in '64. But that doesn't mean others haven't said it",
+    "Price": 15,
+    "PictureUrl": "images/products/glove-code2.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Purple React Jackets",
+    "Description": "We're not saying that adidas introduced the track suit back in '64. But that doesn't mean others haven't said it",
+    "Price": 16,
+    "PictureUrl": "images/products/glove-react1.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Green React Jackets",
+    "Description": "We're not saying that adidas introduced the track suit back in '64. But that doesn't mean others haven't said it",
+    "Price": 14,
+    "PictureUrl": "images/products/glove-react2.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Redis Red Bags",
+    "Description": "When you walk out the door with everything you need and everything in its place, the day just goes more smoothly.",
+    "Price": 250,
+    "PictureUrl": "images/products/boot-redis1.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Core Red Bags",
+    "Description": "When you walk out the door with everything you need and everything in its place, the day just goes more smoothly.",
+    "Price": 189.99,
+    "PictureUrl": "images/products/boot-core2.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Core Purple Bags",
+    "Description": "When you walk out the door with everything you need and everything in its place, the day just goes more smoothly.",
+    "Price": 199.99,
+    "PictureUrl": "images/products/boot-core1.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Angular Purple Bags",
+    "Description": "When you walk out the door with everything you need and everything in its place, the day just goes more smoothly.",
+    "Price": 150,
+    "PictureUrl": "images/products/boot-ang2.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Angular Blue Bags",
+    "Description": "When you walk out the door with everything you need and everything in its place, the day just goes more smoothly.",
+    "Price": 180,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  }
+]
